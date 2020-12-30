@@ -1,1 +1,1 @@
-# strip-test
+# stripe-test
